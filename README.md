@@ -16,7 +16,7 @@ App.java：主入口及登录界面
 
 getVerificationCode.java：生成验证码程序
 
-StudentsSystem.java：图书管理系统主程序，登录成功后跳转
+StudentsSystem.java：学生信息管理系统主程序，从App.java登录成功后跳转到该程序
 
 User.java：JavaBean程序
 
